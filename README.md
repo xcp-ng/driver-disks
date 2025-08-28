@@ -43,7 +43,7 @@ present in the original XCP-ng 8.2.1 installation ISO:
     <summary>generate a test gpg key and store the public key in the expected place</summary>
 
     ```
-    [builder@43e15989a9bf driver-disks]$ ./generate-test-key RPM-GPG-KEY-XS-DDK-Test
+    [builder@43e15989a9bf driver-disks]$ ./generate-test-key RPM-GPG-KEY-XCP-SingleUse
     Passphrase: 
     /home/builder/.gnupg/pubring.gpg
     --------------------------------
